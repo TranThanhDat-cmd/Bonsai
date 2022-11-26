@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Bonsal_Gardent</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\image\NewFolder\**" />
+    <Content Remove="wwwroot\image\NewFolder\**" />
+    <EmbeddedResource Remove="wwwroot\image\NewFolder\**" />
+    <None Remove="wwwroot\image\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Models\f555g5yx.5kx~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\image\Pic\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Products\Create.cshtml" />
+    <None Include="Views\Products\Delete.cshtml" />
+    <None Include="Views\Products\Details.cshtml" />
+    <None Include="Views\Products\Edit.cshtml" />
+    <None Include="Views\Products\Index.cshtml" />
+  </ItemGroup>
+
+</Project>

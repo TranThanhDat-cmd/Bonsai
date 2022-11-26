@@ -1,0 +1,157 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Bonsal_Gardent.Models.Product>
+@{
+
+}
+<style>
+    .sidenav {
+        width: 200px;
+        position: fixed;
+        z-index: 1;
+        top: 159px;
+        left: 2px;
+        background-color:olivedrab;
+        overflow-x: hidden;
+    }
+
+    .dropdown-container {
+        display: none;
+        background-color: forestgreen;
+        padding-left: 8px;
+    }
+
+
+    .sidenav a:hover, .dropdown-btn:hover {
+        color: #f1f1f1;
+    }
+
+    .active {
+        background-color: green;
+        color: white;
+    }
+
+    .sidenav a, .dropdown-btn {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        display: block;
+        border: none;
+        background: none;
+        width: 100%;
+        text-align: left;
+        cursor: pointer;
+        outline: none;
+    }
+
+    .row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    .col-md-3 {
+        width: 25%;
+        float: left;
+    }
+
+    .dvinfo {
+        background: #f3f3f3;
+        margin-bottom: 20px;
+    }
+
+    a {
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    .dvpic img {
+        width: 100%;
+    }
+
+    img {
+        vertical-align: middle;
+        border: 0;
+    }
+
+    .dvname {
+        min-height: 40px;
+        padding: 5px 15px;
+        margin-top: 5px;
+        padding-bottom: 1px;
+    }
+
+    .dvpr {
+        text-align: center;
+        padding-bottom: 8px;
+    }
+
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+</style>
+<body>
+    <div class="sidenav">
+        <button class="dropdown-btn">
+            List Category  ☰
+        </button>
+        <div class="dropdown-container">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+        </div>
+    </div>
+
+    <h2>a</h2>
+
+    <div id="product-wrap">
+
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+
+                <div class="col-md-3">
+                    <div class="dvinfo">
+                        <div class="dvpic">
+                            <a title="@item.Name">
+                                <img alt="@item.Name" title="@item.Name" class="lazy" data-src="" src="@item.Pictures.First().Path" />
+                            </a>
+                        </div>
+                        <div class="dvname">
+                            <a href="@item.Name" title="@item.Name">
+                                @item.Name
+                            </a><br>
+                        </div>
+                        <div class="dvpr">
+                            Price : <span>@string.Format("{0:#.00}", Convert.ToDecimal(item.Price) / 100);<sup>đ</sup></span>
+                        </div>
+                    </div>
+                </div>
+
+            }
+
+        </div>
+    </div>
+    <script>
+        /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+        var dropdown = document.getElementsByClassName("dropdown-btn");
+        var i;
+
+        for (i = 0; i < dropdown.length; i++) {
+            dropdown[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var dropdownContent = this.nextElementSibling;
+                if (dropdownContent.style.display === "block") {
+                    dropdownContent.style.display = "none";
+                } else {
+                    dropdownContent.style.display = "block";
+                }
+            });
+        }
+    </script>
+    
+</body>
