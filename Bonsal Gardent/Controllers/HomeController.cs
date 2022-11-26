@@ -113,9 +113,9 @@ namespace Bonsal_Gardent.Controllers
         {
             return View();
         }
-        public IActionResult Tool()
+        public IActionResult Tool(int? id = null)
         {
-            var product = _context.Products.Where(x=>x.TypeId == 1).Include(x=>x.Pictures).ToList();
+            var product = _context.Products.Where(x=>(id == null || x.CategoryId == id) && x.TypeId == 1).Include(x=>x.Pictures).ToList();
             var categories = _context.Categogies;
 
             return View(new

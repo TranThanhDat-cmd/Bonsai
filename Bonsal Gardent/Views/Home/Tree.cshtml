@@ -1,7 +1,8 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
-@model IEnumerable<Bonsal_Gardent.Models.Product>
+
+
 @{
 
 }
@@ -12,7 +13,7 @@
         z-index: 1;
         top: 159px;
         left: 2px;
-        background-color:olivedrab;
+        background-color: olivedrab;
         overflow-x: hidden;
     }
 
@@ -22,6 +23,11 @@
         padding-left: 8px;
     }
 
+
+    .fa-caret-down {
+        float: right;
+        padding-right: 8px;
+    }
 
     .sidenav a:hover, .dropdown-btn:hover {
         color: #f1f1f1;
@@ -66,7 +72,8 @@
     }
 
     .dvpic img {
-        width: 100%;
+        width: 300px;
+        height: 200px;
     }
 
     img {
@@ -97,37 +104,45 @@
     <div class="sidenav">
         <button class="dropdown-btn">
             List Category  ☰
+            <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-container">
-            <a href="#">Link 1</a>
-            <a href="#">Link 2</a>
-            <a href="#">Link 3</a>
+            @foreach (var item in Model.categories)
+            {
+                <a asp-action="Tool" asp-route-id="@item.Id">@item.Name</a>
+            }
+
         </div>
     </div>
 
-    <h2>a</h2>
 
     <div id="product-wrap">
 
 
         <div class="row">
-            @foreach (var item in Model)
+            @foreach (var item in (List<Product>)Model.product)
             {
 
                 <div class="col-md-3">
                     <div class="dvinfo">
                         <div class="dvpic">
                             <a title="@item.Name">
-                                <img alt="@item.Name" title="@item.Name" class="lazy" data-src="" src="@item.Pictures.First().Path" />
+                                @if (@item.Pictures!.Any())
+                                {
+                                    <img style="width:100%; height: 200px" alt="@item.Name" title="@item.Name" class="lazy" data-src="" src="/image/Pic/@item.Pictures!.First().Path" />
+                                }
+                                else
+                                {
+                                    <img alt="@item.Name" title="@item.Name" class="lazy" data-src="" src="/image/2022-09-24_140746.png" />
+                                }
                             </a>
                         </div>
                         <div class="dvname">
-                            <a href="@item.Name" title="@item.Name">
-                                @item.Name
-                            </a><br>
+                            <a asp-area="" asp-controller="Home" asp-action="Details" asp-route-id="@item.Id"> @item.Name</a>
+
                         </div>
                         <div class="dvpr">
-                            Price : <span>@string.Format("{0:#.00}", Convert.ToDecimal(item.Price) / 100);<sup>đ</sup></span>
+                            Price : <span>@Double.Parse(item.Price).ToString("0#,##0")<sup>đ</sup></span>
                         </div>
                     </div>
                 </div>
@@ -153,5 +168,5 @@
             });
         }
     </script>
-    
+
 </body>
