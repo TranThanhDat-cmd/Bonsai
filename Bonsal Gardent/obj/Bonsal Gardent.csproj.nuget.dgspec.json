@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Tài liệu\\Final\\Bonsal Gardent (2)\\Bonsal Gardent\\Bonsal Gardent\\Bonsal Gardent.csproj": {}
+    "C:\\Users\\PC\\Documents\\Final\\Bonsai\\Bonsal Gardent\\Bonsal Gardent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Tài liệu\\Final\\Bonsal Gardent (2)\\Bonsal Gardent\\Bonsal Gardent\\Bonsal Gardent.csproj": {
+    "C:\\Users\\PC\\Documents\\Final\\Bonsai\\Bonsal Gardent\\Bonsal Gardent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Tài liệu\\Final\\Bonsal Gardent (2)\\Bonsal Gardent\\Bonsal Gardent\\Bonsal Gardent.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Final\\Bonsai\\Bonsal Gardent\\Bonsal Gardent.csproj",
         "projectName": "Bonsal Gardent",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Tài liệu\\Final\\Bonsal Gardent (2)\\Bonsal Gardent\\Bonsal Gardent\\Bonsal Gardent.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\Final\\Bonsai\\Bonsal Gardent\\Bonsal Gardent.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Tài liệu\\Final\\Bonsal Gardent (2)\\Bonsal Gardent\\Bonsal Gardent\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Final\\Bonsai\\Bonsal Gardent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

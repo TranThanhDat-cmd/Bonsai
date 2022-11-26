@@ -5,265 +5,264 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bonsal_Gardent
 build_property.RootNamespace = Bonsal_Gardent
-build_property.ProjectDir = C:\Users\PC\OneDrive\Tài liệu\Final\Bonsal Gardent (2)\Bonsal Gardent\Bonsal Gardent\
+build_property.ProjectDir = C:\Users\PC\Documents\Final\Bonsai\Bonsal Gardent\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PC\OneDrive\Tài liệu\Final\Bonsal Gardent (2)\Bonsal Gardent\Bonsal Gardent
+build_property.MSBuildProjectDirectory = C:\Users\PC\Documents\Final\Bonsai\Bonsal Gardent
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Edit_for_Customer.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Edit_for_Customer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXEVkaXRfZm9yX0N1c3RvbWVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccCustomers/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccCustomers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccManagers/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccManagers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjTWFuYWdlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccManagers/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccManagers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjTWFuYWdlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccManagers/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccManagers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjTWFuYWdlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccManagers/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccManagers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjTWFuYWdlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/AccManagers/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/AccManagers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjTWFuYWdlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Cart/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Categogies/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Categogies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvZ2llc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Categogies/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Categogies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvZ2llc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Categogies/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Categogies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvZ2llc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Categogies/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Categogies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvZ2llc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Categogies/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Categogies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvZ2llc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/About.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Login.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Product.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Profile.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Sign_up.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Sign_up.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduX3VwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Tool.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Tool.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb29sLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Home/Tree.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Home/Tree.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/List_Bill.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/List_Bill.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTGlzdF9CaWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/List_Comment.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/List_Comment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTGlzdF9Db21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/Manager_Account.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/Manager_Account.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTWFuYWdlcl9BY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/Manager_Page.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/Manager_Page.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTWFuYWdlcl9QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/Manager_Product.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/Manager_Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTWFuYWdlcl9Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/Manager_View.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/Manager_View.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTWFuYWdlcl9WaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Managers/Product.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Managers/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/OrderDetails/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/OrderDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/OrderDetails/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/OrderDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/OrderDetails/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/OrderDetails/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/OrderDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/OrderDetails/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Pictures/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Pictures/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Pictures/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Pictures/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Pictures/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Pictures/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Pictures/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Pictures/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Pictures/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Pictures/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Products/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Products/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Products/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Products/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Products/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Sell/Bill_Detail.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Sell/Bill_Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxCaWxsX0RldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Sell/Checkout.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Sell/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Sell/Order.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Sell/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxPcmRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Sell/Sell.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Sell/Sell.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxTZWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Sell/User_Bill.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Sell/User_Bill.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbFxVc2VyX0JpbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Shared/Error.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Types/Create.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Types/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Types/Delete.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Types/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Types/Details.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Types/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Types/Edit.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Types/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Types/Index.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Types/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/_ViewImports.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/_ViewStart.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PC/OneDrive/Tài liệu/Final/Bonsal Gardent (2)/Bonsal Gardent/Bonsal Gardent/Views/Shared/_Layout.cshtml]
+[C:/Users/PC/Documents/Final/Bonsai/Bonsal Gardent/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3sph0s0iit
